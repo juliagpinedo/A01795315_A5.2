@@ -1,2 +1,0 @@
-Total Price: $168145.36
-Elapsed Time: 0.0001342296600341797 s
